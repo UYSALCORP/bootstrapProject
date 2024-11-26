@@ -1,0 +1,18 @@
+.banner{
+    background: url('./img/banner.jpeg') center center no-repeat;
+    background-size: cover;
+    color: black;
+  }
+
+.icon {
+    width: 150px;
+    height: 150px;
+}
+
+.team{
+    border: 10px solid rgb(189, 187, 187);
+}
+
+.contact{
+    background: url(img/map.jpeg)
+}
